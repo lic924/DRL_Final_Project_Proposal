@@ -110,6 +110,12 @@ sh end.shell
 - `openspec/`：供課程檢查使用的 OpenSpec-compatible 結構。
 - `slides/`：期末提案簡報材料，包含 [Zero-Shot_Negotiation_via_LLM_Environments.pdf](slides/Zero-Shot_Negotiation_via_LLM_Environments.pdf)。
 
+## ChatGPT 協作紀錄
+
+本專案的提案整理、文件架構與 GitHub submission 準備過程，有使用 ChatGPT 協助討論與整理。對話紀錄可參考：
+
+- [ChatGPT shared conversation](https://chatgpt.com/share/69e87c1a-c520-83e8-a5fb-d1a9888db67a)
+
 ## 目前狀態
 
 這是一個提案與規格儲存庫，尚不是完整實作。它定義了可行的專題方向、實驗設計與後續實作所需的規格結構。

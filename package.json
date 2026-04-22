@@ -1,0 +1,20 @@
+{
+  "name": "drl-llm-negotiation-proposal",
+  "version": "1.0.0",
+  "description": "Deep Reinforcement Learning 期末專題提案：使用 LLM 模擬多樣化對手的強化學習議價代理人。",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "setup": "sh start.sh",
+    "verify": "sh end.sh",
+    "proposal:check": "sh scripts/proposal-check.sh"
+  },
+  "keywords": [
+    "deep-reinforcement-learning",
+    "negotiation",
+    "llm-simulation",
+    "openspec",
+    "proposal"
+  ],
+  "license": "UNLICENSED"
+}

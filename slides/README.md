@@ -4,7 +4,7 @@
 
 ## 目前簡報
 
-- [LLM_Driven_RL_Negotiation.pdf](LLM_Driven_RL_Negotiation.pdf)：本專題的提案簡報 PDF。
+- [Zero-Shot_Negotiation_via_LLM_Environments.pdf](Zero-Shot_Negotiation_via_LLM_Environments.pdf)：本專題的提案簡報 PDF。
 
 建議簡報架構：
 

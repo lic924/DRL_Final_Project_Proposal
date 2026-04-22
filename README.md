@@ -54,7 +54,7 @@
 ├── scripts/
 │   └── proposal-check.sh
 ├── slides/
-│   ├── LLM_Driven_RL_Negotiation.pdf
+│   ├── Zero-Shot_Negotiation_via_LLM_Environments.pdf
 │   └── README.md
 └── spec/
     ├── environment-spec.md
@@ -108,7 +108,7 @@ sh end.shell
 - `docs/05_expected_contribution.md`：整理預期貢獻、限制與未來工作。
 - `spec/*.md`：實作導向規格，包含環境、RL formulation、實驗流程與 research gap。
 - `openspec/`：供課程檢查使用的 OpenSpec-compatible 結構。
-- `slides/`：期末提案簡報材料，包含 [LLM_Driven_RL_Negotiation.pdf](slides/LLM_Driven_RL_Negotiation.pdf)。
+- `slides/`：期末提案簡報材料，包含 [Zero-Shot_Negotiation_via_LLM_Environments.pdf](slides/Zero-Shot_Negotiation_via_LLM_Environments.pdf)。
 
 ## 目前狀態
 
